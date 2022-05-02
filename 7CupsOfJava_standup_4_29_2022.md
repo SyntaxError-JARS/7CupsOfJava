@@ -16,5 +16,5 @@ I am positive about Java and will spend this weekend working on my p0.
 Oscar Sanchez
 I'm positive that today is Friday. It is also fun to learn Java which is something new. I plan to use this weekend to work on my p0 project.
 
-Jacky 
+Jacky Koo
 Java is similar to JavaScript so I was able to understand some of it. I might have to go back to the videos to understand more of SQL and Java.
