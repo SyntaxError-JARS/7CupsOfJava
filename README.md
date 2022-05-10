@@ -16,4 +16,4 @@ The group consists of:
 
 - Oscar Sanchez
 
-- Jacky
+- Jacky Foo
