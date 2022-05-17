@@ -1,0 +1,40 @@
+
+Matthew
+happy 
+not due till thrusday 
+improve 
+java basics
+what we are working on 
+create method with jerry
+
+jacky
+happy
+jacky is still alive
+sad 
+project is still due
+working on 
+update and delete 
+
+robb
+happy 
+with project status
+improve jdbc knowledge 
+working on crud
+
+jerry 
+happy alive
+improve not too much time on one thing
+project working on crud
+
+yatta
+still where she was at yesterday 
+happy its pay week 
+
+max
+happy servlets are done
+need to improve on statying focused on mvp 
+working on hitting as many mvp goals as he can 
+
+oscar
+Project: just trying to get most of the stuff done and debugging 
+Improve: just retaining more information as I go.
