@@ -8,7 +8,7 @@ The group consists of:
 
 - Jerry Faustin
 
-- Romane Robb
+- Ross
 
 - Matthew Swaney
 
@@ -17,3 +17,4 @@ The group consists of:
 - Oscar Sanchez
 
 - Jacky Koo
+
