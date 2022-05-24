@@ -10,11 +10,11 @@ The group consists of:
 
 - Ross
 
-- Matthew Swaney
+- Georges Tchankwe
 
 - Maxwell Moord
 
-- Oscar Sanchez
+- Jarrett McClenton
 
-- Jacky Koo
+
 
