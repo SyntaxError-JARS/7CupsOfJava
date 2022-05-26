@@ -8,12 +8,13 @@ The group consists of:
 
 - Jerry Faustin
 
-- Romane Robb
+- Ross
 
-- Matthew Swaney
+- Georges Tchankwe
 
 - Maxwell Moord
 
-- Oscar Sanchez
+- Jarrett McClenton
 
-- Jacky Koo
+
+
