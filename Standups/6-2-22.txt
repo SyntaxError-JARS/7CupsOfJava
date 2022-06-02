@@ -1,0 +1,20 @@
+Jarrett:
+Happy: When project is done
+Improve: Coding Challenges
+Project: Backend is good, Make sure hibernate is done
+
+Ross:
+Happy: Learned Hibernate
+Improve: Time management with project
+Project: Project is done, except double checking mvp and changes.
+
+Kenyatta:
+Happy: Keeping up better with the course
+Improve:Clash of Code
+Project: Catching up on last week 
+
+Maxwell:
+Happy: The project got pushed to Monday
+Improve: Time management
+Project: Backend is almost done, Frontend is started, Learning Hibernate
+
