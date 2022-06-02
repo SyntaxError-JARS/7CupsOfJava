@@ -18,3 +18,8 @@ Happy: The project got pushed to Monday
 Improve: Time management
 Project: Backend is almost done, Frontend is started, Learning Hibernate
 
+Jerry:
+Happy: The Project day is almost here
+Improve: need to work on getting faster solutions
+Project: working on fixing connection with the database
+
