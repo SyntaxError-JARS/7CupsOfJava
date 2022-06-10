@@ -1,0 +1,24 @@
+Jerry
+Positive: It's now the weekend
+Project State: We created models in IntelliJ, created an ERD, 
+Improvements: Learning more Java syntax for the coding challenges
+
+Jarrett
+Positive:I'm happy its the weekend
+Project State: We created models in IntelliJ, created an ERD, 
+Improvements: Keep getting better at the coding games, did alright today, gotta keep getting better
+
+Max
+Positive: It's the weekend!
+Project State: We created models in IntelliJ, created an ERD,
+Improvements: Taking better notes, cause I'll have to take notes over the weekend
+
+Ross
+Positive: I'm happy that we are getting closer to the final steps of the project and training session
+Project State: I made the backend last night and I'm going to the adaption and testing
+Improvements: Getting better with IntelliJ
+
+Matt
+Positive: lots to get good at
+Project State: We created models in IntelliJ, created an ERD,
+Improvements: I feel more behind
