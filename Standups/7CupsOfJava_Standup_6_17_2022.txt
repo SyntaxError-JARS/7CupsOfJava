@@ -1,0 +1,17 @@
+Jerry
+Positive: It's Almost the weekend
+Project State: Just need to finalize our FE and deploy to azure
+Improvements: Getting comfortable with the front end css
+
+Max
+Positive: Project's almost done
+Project State: Just need to connect a few more things in the front end
+Improvements: Improve my time management
+
+Jarrett
+Positive: We are almost done with the project
+Project State: Need to deploy to azure
+Improvement: Time management
+
+Ross
+Everything is good. I'm happy with project and my learning progress
